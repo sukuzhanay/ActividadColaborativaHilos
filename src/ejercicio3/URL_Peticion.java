@@ -42,4 +42,4 @@ public class URL_Peticion implements Runnable{
         }
     }
 
-}
+}//Checked
